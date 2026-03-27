@@ -31,6 +31,9 @@ This smart contract enables:
 
 ## 🔗 Deployed Smart Contract Link
 Gaming Skins NFT
+contract id - CCVBMJN4CD43O4B4UREIZEYNB35UYLZNA7I2J2DRZS2SMTD3ZZOZM5XD
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d3f8059-1f0f-420a-8eed-16bc0ae4db40" />
 
 ## 🛠️ How to Run Locally
 
